@@ -44,5 +44,5 @@ Karena game ini masih dalam tahap *Pre-Release*, kami dapat memperbarui Kebijaka
 
 Jika Anda memiliki pertanyaan, saran, atau menemukan *bug* terkait privasi selama masa *Pre-Release* WKWK Simulator, jangan ragu untuk menghubungi kami di:
 
-*   **Email:** [Alamat Email Kamu, misal: dev@wkwksimulator.com]
-*   **GitHub Issues:** [Link ke tab Issues di repositori GitHub kamu]
+*   **Email:** edwardusbenny@gmail.com
+*   **GitHub Issues:** to be inserted
