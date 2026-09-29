@@ -1,10 +1,10 @@
 # Privacy Policy - WKWK Simulator (Pre-Release)
 
-**Terakhir Diperbarui:** [Tanggal Hari Ini, misal: 29 September 2026]
+**Terakhir Diperbarui:** 29 September 2026
 
 Terima kasih telah berpartisipasi dalam tahap pra-rilis (*Pre-Release/Early Access*) dari **WKWK Simulator**. Kebijakan Privasi ini menjelaskan bagaimana kami mengumpulkan, menggunakan, dan melindungi informasi Anda saat Anda memainkan game kami.
 
-WKWK Simulator dikembangkan oleh **[Nama Kamu / Nama Studio Kamu]** sebagai aplikasi gratis yang didukung oleh iklan (Ad-Supported). Layanan ini disediakan tanpa biaya dan ditujukan untuk digunakan "sebagaimana adanya" selama masa pengujian.
+WKWK Simulator dikembangkan oleh **Edwardus Benny Studio** sebagai aplikasi gratis yang didukung oleh iklan (Ad-Supported). Layanan ini disediakan tanpa biaya dan ditujukan untuk digunakan "sebagaimana adanya" selama masa pengujian.
 
 ## 1. Pengumpulan dan Penggunaan Informasi
 
